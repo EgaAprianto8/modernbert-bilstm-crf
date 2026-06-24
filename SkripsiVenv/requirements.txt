@@ -69,3 +69,5 @@ tzdata==2026.2
 urllib3==2.7.0
 xxhash==3.7.1
 yarl==1.24.2
+sequeval
+pytorch-optimizer
